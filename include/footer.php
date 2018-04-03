@@ -25,7 +25,7 @@
                     <p>Copyrights © 2017 Nswealth Financial. All rights reserved.</p>
                 </div>
                 <div class="col-md-5 text-right">
-                    <p>Made with <i class="icon-heart3"></i> by <a href="http://www.nswealth.in/" target="_blank">NSwealth </a></p>
+                    <p>Made with <i class="icon-heart3"></i> by <a href="http://www.7patterns.in/" target="_blank">7patterns.in </a></p>
                 </div>
             </div>
         </div>
